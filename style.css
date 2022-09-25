@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.overall{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(202, 198, 198);
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page{
+    width: 350px;
+    height:450px;
+    background-color: rgb(16, 98, 180);
+    margin: auto;
+    text-align: center;
+    color: white;
+    position: relative;
+    left: 95px;
+}
+.greeting{
+    position: relative;
+    top: 100px;
+}
+.lorem{
+    position: relative;
+    top: 110px;
+}
+img{
+    position: relative;
+    top: 70px;
+}
+.login{
+    width: 550px;
+    height: 450px;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    right: 95px;
+}
+.social{
+    position: relative;
+    top: 170px;
+}
+span{
+    color:rgb(13, 138, 187);
+}
+.fb{
+    width: 150px;
+    height: 40px;
+    color: white;
+    background-color: rgb(0, 89, 255);
+    border: rgb(0, 89, 255);
+    border-radius: 3px;
+
+}
+.gg{
+    color: white;
+    background-color: rgb(254, 50, 50);
+    border:  rgb(254, 50, 50);
+    width: 150px;
+    height: 40px;
+    border-radius: 3px;
+}
+.or{
+    position: relative;
+    top: 150px;
+    width: 25px;
+    border-radius: 15px;
+    border:2px solid rgb(235, 230, 230);
+    background-color: white;
+
+}
+.signup{
+    position: relative;
+    top: 140px;
+    left: 80px;
+}
+a{
+    background-color:rgb(16, 98, 180);
+    padding: 10px 140px;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 120px;
+    border-radius: 3px;
+}
+.forgot{
+    position: relative;
+    top: 100px;
+    right: 95px;
+    color: rgb(13, 138, 187);
+}
+.password{
+    position: relative;
+    top: 90px;
+    right: 5px;
+    height: 40px;
+    width: 315px;
+}
+.b{
+    position: relative;
+    top: 85px;
+    right: 124px;
+}
+.email{
+    position: relative;
+    top: 80px;
+    right: 5px;
+    height: 40px;
+    width: 315px;
+}
+.a{
+    position: relative;
+    top: 70px;
+    right: 140px;
+}
+h3{
+    position: relative;
+    top:40px;
+}
